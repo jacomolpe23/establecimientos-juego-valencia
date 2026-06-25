@@ -33,6 +33,13 @@ La base no debe interpretarse como un censo administrativo oficial, sino como un
 
 ## Archivos
 
-- `establecimientos_juego_valencia_metropolitana.csv`
-- `establecimientos_juego_valencia_metropolitana.geojson`
-- `mapa_establecimientos_juego.html`
+Este repositorio incluye tres recursos principales:
+
+- **Base de datos en CSV**: archivo tabular con los establecimientos de juego georreferenciados del área metropolitana de Valencia.  
+  [Descargar CSV](./establecimientos_juego_valencia_metropolitana.csv)
+
+- **Base de datos en GeoJSON**: versión geográfica del dataset, utilizable en QGIS, ArcGIS, R, Python o visores web.  
+  [Descargar GeoJSON](./establecimientos_juego_valencia_metropolitana.geojson)
+
+- **Mapa interactivo**: visualización web de los establecimientos georreferenciados.  
+  [Abrir mapa interactivo](./mapa_establecimientos_juego.html)
